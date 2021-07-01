@@ -1,4 +1,3 @@
-<script async='async' type='text/javascript'>
 //<![CDATA[
 /**
  * Owl Carousel v2.2.1
@@ -120,4 +119,3 @@ $(".blsm-comment").click(function() {
     }, 1000);
 });
  //]]>
-</script>
